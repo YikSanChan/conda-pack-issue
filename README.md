@@ -1,5 +1,10 @@
 # Conda pack issue
 
+```
+$ conda --version
+conda 4.10.1
+```
+
 First of all, install conda-pack, see https://conda.github.io/conda-pack/.
 
 To reproduce the env, create the conda env. Note it will also `pip install` dependencies in the requirements.txt
